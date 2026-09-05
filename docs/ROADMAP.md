@@ -1,10 +1,10 @@
 # NovaMC Repair & Production Roadmap
 
 ## Phase 0 — Baseline
-- [x] Archive inspection
-- [x] Architecture inventory
-- [x] Security findings recorded
-- [x] Initial hardening changes identified
+- [ ] Archive inspection
+- [ ] Architecture inventory
+- [ ] Security findings recorded
+- [ ] Initial hardening changes identified
 - [ ] Reproducible Gradle wrapper
 
 ## Phase 1 — Build & Core Stability
